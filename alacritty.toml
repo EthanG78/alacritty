@@ -1,5 +1,6 @@
 [general]
 working_directory="C:\\Users\\ethang"
+# working_directory="/home/ethang"
 
 [window]
 padding.x=40
